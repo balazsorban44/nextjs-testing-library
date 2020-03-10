@@ -1,1 +1,1 @@
-export * from 'testing-library__react'
+export * from 'testing-library__nextjs'
